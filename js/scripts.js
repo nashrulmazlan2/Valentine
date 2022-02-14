@@ -7,17 +7,7 @@
 // Scripts
 // 
 
-<script language="Javascript">
-window.onload=function {
-alert("Open with phone browser ONLY!!!");
-alert("Not with your ipad");
-alert("Only on your phone's browser");
-alert("Hehehe it was a quick project so i never resize the pictures for any other device");
-alert("Hope you like it still");
-alert("Love youuuuuu");
-alert("You may continue");
-}
-</script>
+
 
 window.addEventListener('DOMContentLoaded', event => {
 
